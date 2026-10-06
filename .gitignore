@@ -1,0 +1,15 @@
+node_modules/
+.pnpm-store/
+.next/
+out/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+data/
+/assets/photos/
+/sources/
+*.tsbuildinfo
